@@ -5,4 +5,4 @@ draft: false
 title: Test MathJax
 uid: 276a15ec-f24b-448a-a010-f462dec958d7
 ---
-x\_2
+\(x_2\) asdasdad
